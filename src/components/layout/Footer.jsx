@@ -13,7 +13,7 @@ function Footer() {
   return (
     <>
       <section className=" container  !py-0 ">
-        <div className="row  flex  m-auto flex-wrap p-4">
+        <div className="row  flex  m-auto flex-wrap p-4 md:p-0">
           <div className="w-full py-10 mb-6 bg-[#FDEECD] rounded-3xl">
             <div className="w-[88%]  m-auto lg:flex  gap-7 items-center">
               <div className=" w-full lg:w-[30%] h-[400px] flex flex-wrap items-start py-9">
@@ -86,8 +86,8 @@ function Footer() {
             </div>
           </div>
 
-          <div className="w-full mb-6 bg-[#172B7A] rounded-3xl h-[110px]">
-            <div className="flex flex-wrap items-center h-full w-[88%] m-auto justify-between text-white">
+          <div className="w-full mb-6 bg-[#172B7A] rounded-3xl h-[110px]  ">
+            <div className="flex flex-wrap items-center h-full w-[88%] m-auto justify-center sm:justify-between text-white">
               <p className="">توسعه توسط الناز مختاری | ۱۴۰۳ ©</p>
               <div className="flex">
                 <span className="p-2 text-[23px]  hover:text-[#f9467d] transition-all duration-500  delay-75">
