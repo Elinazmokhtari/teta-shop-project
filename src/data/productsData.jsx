@@ -14,8 +14,8 @@ import Cover6 from '../assets/images/products/Cover1.jpg'
 import Cover6_2 from '../assets/images/products/Cover1-2.jpg'
 import Cover7 from '../assets/images/products/Cover7.jpg'
 import Cover7_2 from '../assets/images/products/Cover7-2.jpg'
-import Cover8 from '../assets/images/products/Cover8.jpg'
-import Cover8_2 from '../assets/images/products/Cover8-2.jpg'
+import Image8 from '../assets/images/products/Image8.jpg'
+import Image8_2 from '../assets/images/products/Image8-2.jpg'
 import Cover9 from '../assets/images/products/Cover9.jpg'
 import Cover9_2 from '../assets/images/products/Cover9-2.jpg'
 import Cover10 from '../assets/images/products/Cover10.jpg'
@@ -86,8 +86,8 @@ const products =[
     {
         id: 8,
         title: "کرم بادوام کاویلون",
-        image1: Cover8,
-        image2: Cover8_2,
+        image1: Image8,
+        image2: Image8_2,
         price:120000,
         rate:5.00
     },
