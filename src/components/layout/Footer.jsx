@@ -88,7 +88,7 @@ function Footer() {
 
           <div className="w-full mb-6 bg-[#172B7A] rounded-3xl h-[110px]">
             <div className="flex items-center h-full w-[88%] m-auto justify-between text-white">
-              <p className="">© 1402 کایت استودیو | ایجاد شده با قالب تتا</p>
+              <p className="">توسعه توسط الناز مختاری | ۱۴۰۳ ©</p>
               <div className="flex">
                 <span className="p-2 text-[23px]  hover:text-[#f9467d] transition-all duration-500  delay-75">
                   <IoLogoFacebook />
