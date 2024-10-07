@@ -9,7 +9,7 @@ function NewsLetterForm() {
         <>
             <section
                 data-aos="fade-up"
-                className="w-[90%] md:w-full  h-[240px]  container bg-[#FCF1F1] rounded-3xl overflow-hidden  "
+                className="w-[90%] md:w-full container bg-[#FCF1F1] rounded-3xl overflow-hidden  "
             >
                 <div className="relative ">
                     <Image src={flower1} className="absolute right-10 top-6 z-10" />
@@ -20,11 +20,11 @@ function NewsLetterForm() {
                     <p className="w-[60%] justify-center  items-end flex text-[26px] text-center text-[#172B7A]">
                         جهت عضویت در خبرنامه ایمیل خود را وارد کنید
                     </p>
-                    <div className="  w-[90%] flex items-start justify-center py-6 ">
+                    <div className="  w-[90%] flex flex-wrap items-start justify-center py-6 ">
                         <input
                             type="text"
                             placeholder="ایمیل"
-                            className="w-[350px] p-3  outline-none rounded bg-stone-200 hover:bg-stone-100 text-gray-700 transition-all duration-500 delay-75"
+                            className="w-[350px] p-3  mb-3 md:mb-0 outline-none rounded bg-stone-200 hover:bg-stone-100 text-gray-700 transition-all duration-500 delay-75"
                         />
                         <button className="w-[150px] p-3 mr-2 bg-stone-900 text-white font-bold rounded transition-all duration-500  hover:bg-[#f9467d]  ">
                             اشتراک
